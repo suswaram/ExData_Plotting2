@@ -6,7 +6,7 @@ library(plyr)
 
 library(ggplot2)
 
-#run loadData.R first
+source("loadData.R")
 
 
 # Task4 Across the United States, how have emissions from coal 

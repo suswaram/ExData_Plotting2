@@ -6,7 +6,7 @@ library(plyr)
 
 library(ggplot2)
 
-#run loadData.R first
+source("loadData.R")
 
 # Task3 Of the four types of sources indicated by the type (point,
 # nonpoint, onroad, nonroad) variable, which of these four sources 

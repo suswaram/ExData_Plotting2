@@ -6,7 +6,7 @@ library(plyr)
 
 library(ggplot2)
 
-#run loadData.R first
+source("loadData.R")
 
 
 # Task6 Compare emissions from motor vehicle sources in Baltimore 

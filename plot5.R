@@ -1,7 +1,7 @@
 #install plyr package if not installed
 library(plyr)
 
-#run loadData.R first
+source("loadData.R")
 
 
 # Task5 How have emissions from motor vehicle sources changed 
